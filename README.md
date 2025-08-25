@@ -4,6 +4,9 @@ This project presents an end-to-end MLOps pipeline focused on monitoring and add
 
 In essence, this repository provides a comprehensive solution for deploying, monitoring, and maintaining a machine learning model in a production-like setting, specifically addressing the critical challenges of concept drift, data drift, and model drift to sustain predictive accuracy over time.
 
+<img width="1208" height="287" alt="monitored_pipeline" src="https://github.com/user-attachments/assets/ae2e2cbf-03e3-42f7-b48a-b9a3cdf87fbf" />
+
+
 ## Aim
 
 This project aims to achieve the following:
